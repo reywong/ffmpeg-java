@@ -1,4 +1,4 @@
-- [1. FFmpeg开发环境搭建](chapter01/FFmpeg环境搭建.md)
+- [1. FFmpeg环境搭建](chapter01/FFmpeg环境搭建.md)
 - [2. FFmpeg开发基础](chapter02/FFmpeg开发基础.md)
 - [3. FFmpeg的编解码](chapter03/FFmpeg的编解码.md)
 - [4. FFmpeg处理图像](chapter04/FFmpeg处理图像.md)
