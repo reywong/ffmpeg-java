@@ -1,28 +1,5 @@
 # 第12章 FFmpeg的移动开发
 
-## 本章简介
-
-本章将详细介绍如何在移动平台上使用 FFmpeg，主要涵盖 Android 开发环境的搭建、交叉编译、音视频播放等核心内容。通过学习本章，你将掌握在移动设备上集成和使用 FFmpeg 的完整流程。
-
-## 目录
-
-- [12.1 搭建Android开发环境](#121-搭建android开发环境)
-  - [12.1.1 搭建Android的NDK开发环境](#1211-搭建android的ndk开发环境)
-  - [12.1.2 交叉编译Android需要的SO库](#1212-交叉编译android需要的so库)
-  - [12.1.3 App工程调用FFmpeg的SO库](#1213-app工程调用ffmpeg的so库)
-- [12.2 App通过FFmpeg播放音频](#122-app通过ffmpeg播放音频)
-  - [12.2.1 交叉编译时集成mp3lame](#1221-交叉编译时集成mp3lame)
-  - [12.2.2 通过AudioTrack播放音频](#1222-throughaudiotrack播放音频)
-  - [12.2.3 使用OpenSL ES播放音频](#1223-使用opensl-es播放音频)
-- [12.3 App通过FFmpeg播放视频](#123-app通过ffmpeg播放视频)
-  - [12.3.1 交叉编译时集成x264和FreeType](#1231-交叉编译时集成x264和freetype)
-  - [12.3.2 通过ANativeWindow播放视频](#1232-throughanativewindow播放视频)
-  - [12.3.3 使用OpenGL ES播放视频](#1233-使用opengl-es播放视频)
-- [12.4 实战项目：仿剪映的视频剪辑](#124-实战项目仿剪映的视频剪辑)
-- [12.5 小结](#125-小结)
-
----
-
 ## 12.1 搭建Android开发环境
 
 ### 12.1.1 搭建Android的NDK开发环境
