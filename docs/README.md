@@ -215,8 +215,8 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 
 ### 学习资源
 - [FFmpeg开发指南](https://ffmpeg.org/ffmpeg-all.html)
-- [音视频开发教程](docs/)
-- [示例代码库](examples/)
+- [音视频开发教程](https://github.com/reywong/ffmpeg-java/tree/main/docs)
+- [示例代码库](https://github.com/reywong/ffmpeg-java/tree/main/examples)
 
 ## 📞 联系方式
 
