@@ -151,19 +151,44 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 - **仿剪映视频剪辑**: 移动端视频剪辑App
 - **实时直播推流**: 网络直播解决方案
 
-## 🤝 贡献指南
 
-欢迎贡献代码！请遵循以下步骤：
+### 🔄 贡献流程
 
-1. Fork 本项目
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的修改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个 Pull Request
+1. **Fork 本项目**
+   - 访问 [https://github.com/reywong/ffmpeg-java](https://github.com/reywong/ffmpeg-java)
+   - 点击右上角的 "Fork" 按钮
+
+2. **克隆你的Fork仓库**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/ffmpeg-java.git
+   cd ffmpeg-java
+   ```
+
+3. **创建你的特性分支**
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+
+4. **提交你的修改**
+   ```bash
+   git commit -m 'Add some AmazingFeature'
+   ```
+
+5. **推送到分支**
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+
+6. **创建 Pull Request**
+   - 访问你的Fork仓库页面
+   - 点击 "New Pull Request"
+   - 选择正确的分支
+   - 填写PR描述并提交
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+本项目采用 MIT 许可证 - 查看 [LICENSE](https://github.com/reywong/ffmpeg-java/blob/main/LICENSE) 文件了解详情。
+
 
 ## 🔗 相关资源
 
@@ -179,7 +204,7 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 
 ## 📞 联系方式
 
-- 📧 **邮箱**: your-email@example.com
+- 📧 **邮箱**: reywongc@163.com
 - 🐛 **问题反馈**: [GitHub Issues](https://github.com/your-repo/ffmpeg-java/issues)
 - 💬 **讨论**: [GitHub Discussions](https://github.com/your-repo/ffmpeg-java/discussions)
 
