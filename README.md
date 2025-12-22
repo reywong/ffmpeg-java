@@ -31,7 +31,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-repo/ffmpeg-java.git
+   git clone https://github.com/reywong/ffmpeg-java.git
    cd ffmpeg-java
    ```
 
@@ -155,11 +155,52 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 
 欢迎贡献代码！请遵循以下步骤：
 
-1. Fork 本项目
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的修改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个 Pull Request
+### 🔄 贡献流程
+
+1. **Fork 本项目**
+   - 访问 [https://github.com/reywong/ffmpeg-java](https://github.com/reywong/ffmpeg-java)
+   - 点击右上角的 "Fork" 按钮
+
+2. **克隆你的Fork仓库**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/ffmpeg-java.git
+   cd ffmpeg-java
+   ```
+
+3. **创建你的特性分支**
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+
+4. **提交你的修改**
+   ```bash
+   git commit -m 'Add some AmazingFeature'
+   ```
+
+5. **推送到分支**
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+
+6. **创建 Pull Request**
+   - 访问你的Fork仓库页面
+   - 点击 "New Pull Request"
+   - 选择正确的分支
+   - 填写PR描述并提交
+
+### 📝 贡献指南
+
+- 🔍 **Bug报告**: 使用 [GitHub Issues](https://github.com/reywong/ffmpeg-java/issues) 报告问题
+- 💡 **功能建议**: 在 [GitHub Discussions](https://github.com/reywong/ffmpeg-java/discussions) 中讨论
+- 📖 **文档改进**: 帮助完善文档和示例
+- 🧪 **代码贡献**: 提交Pull Request
+
+### 📋 代码规范
+
+- 遵循项目现有的代码风格
+- 添加适当的注释和文档
+- 确保所有测试通过
+- 提交信息清晰明确
 
 ## 📄 许可证
 
@@ -180,8 +221,8 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 ## 📞 联系方式
 
 - 📧 **邮箱**: your-email@example.com
-- 🐛 **问题反馈**: [GitHub Issues](https://github.com/your-repo/ffmpeg-java/issues)
-- 💬 **讨论**: [GitHub Discussions](https://github.com/your-repo/ffmpeg-java/discussions)
+- 🐛 **问题反馈**: [GitHub Issues](https://github.com/reywong/ffmpeg-java/issues)
+- 💬 **讨论**: [GitHub Discussions](https://github.com/reywong/ffmpeg-java/discussions)
 
 ## 🏆 致谢
 
