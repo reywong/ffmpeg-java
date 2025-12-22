@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/reywong/ffmpeg-java/blob/main/LICENSE)
 
 > 📹 **从零开始学习FFmpeg视频剪辑开发，手把手教你实现自己的"剪映"**
 
@@ -31,14 +31,14 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-repo/ffmpeg-java.git
+   git clone https://github.com/reywong/ffmpeg-java.git
    cd ffmpeg-java
    ```
 
 2. **安装FFmpeg**
-    - **Windows**: 下载预编译版本并配置环境变量
-    - **Linux**: `sudo apt-get install ffmpeg` 或编译安装
-    - **macOS**: `brew install ffmpeg`
+   - **Windows**: 下载预编译版本并配置环境变量
+   - **Linux**: `sudo apt-get install ffmpeg` 或编译安装
+   - **macOS**: `brew install ffmpeg`
 
 3. **运行示例项目**
    ```bash
@@ -151,6 +151,9 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 - **仿剪映视频剪辑**: 移动端视频剪辑App
 - **实时直播推流**: 网络直播解决方案
 
+## 🤝 贡献指南
+
+欢迎贡献代码！请遵循以下步骤：
 
 ### 🔄 贡献流程
 
@@ -185,10 +188,23 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
    - 选择正确的分支
    - 填写PR描述并提交
 
+### 📝 贡献指南
+
+- 🔍 **Bug报告**: 使用 [GitHub Issues](https://github.com/reywong/ffmpeg-java/issues) 报告问题
+- 💡 **功能建议**: 在 [GitHub Discussions](https://github.com/reywong/ffmpeg-java/discussions) 中讨论
+- 📖 **文档改进**: 帮助完善文档和示例
+- 🧪 **代码贡献**: 提交Pull Request
+
+### 📋 代码规范
+
+- 遵循项目现有的代码风格
+- 添加适当的注释和文档
+- 确保所有测试通过
+- 提交信息清晰明确
+
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](https://github.com/reywong/ffmpeg-java/blob/main/LICENSE) 文件了解详情。
-
 
 ## 🔗 相关资源
 
@@ -198,15 +214,15 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 - [Java官方文档](https://docs.oracle.com/en/java/)
 
 ### 学习资源
-- [FFmpeg开发指南](https://ffmpeg.org/ffmpeg-faq.html)
+- [FFmpeg开发指南](https://ffmpeg.org/ffmpeg-all.html)
 - [音视频开发教程](docs/)
 - [示例代码库](examples/)
 
 ## 📞 联系方式
 
 - 📧 **邮箱**: reywongc@163.com
-- 🐛 **问题反馈**: [GitHub Issues](https://github.com/your-repo/ffmpeg-java/issues)
-- 💬 **讨论**: [GitHub Discussions](https://github.com/your-repo/ffmpeg-java/discussions)
+- 🐛 **问题反馈**: [GitHub Issues](https://github.com/reywong/ffmpeg-java/issues)
+- 💬 **讨论**: [GitHub Discussions](https://github.com/reywong/ffmpeg-java/discussions)
 
 ## 🏆 致谢
 
