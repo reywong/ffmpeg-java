@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/reywong/ffmpeg-java/blob/main/LICENSE)
 
 > 📹 **从零开始学习FFmpeg视频剪辑开发，手把手教你实现自己的"剪映"**
 
@@ -204,7 +204,7 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+本项目采用 MIT 许可证 - 查看 [LICENSE](https://github.com/reywong/ffmpeg-java/blob/main/LICENSE) 文件了解详情。
 
 ## 🔗 相关资源
 
@@ -220,7 +220,7 @@ watermark.addTextWatermark("input.mp4", "output.mp4", "版权所有", "center");
 
 ## 📞 联系方式
 
-- 📧 **邮箱**: your-email@example.com
+- 📧 **邮箱**: reywongc@163.com
 - 🐛 **问题反馈**: [GitHub Issues](https://github.com/reywong/ffmpeg-java/issues)
 - 💬 **讨论**: [GitHub Discussions](https://github.com/reywong/ffmpeg-java/discussions)
 
